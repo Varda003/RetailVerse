@@ -60,16 +60,16 @@ An AI recommendation engine (Flask backend) suggests sustainable and trust-build
 
 ## 📂 Folder Structure
 
-RetailVerse/
-├── backend/  Express backend with MongoDB
-│ ├── routes/ API routes (e.g., /api/auth/signup)
-│ ├── models/ Mongoose models
-│ └── server.js  Entry point
-├── flask-ai/  AI recommendation engine (Flask app)
+RetailVerse
+├── backend  
+│ ├── routes
+│ ├── models
+│ └── server.js  
+├── flask-ai 
 │ └── app.py
-├── frontend/  React app
-│ ├── components/
-│ ├── pages/
+├── frontend
+│ ├── components
+│ ├── pages
 │ └── App.js
 └── README.md
 
