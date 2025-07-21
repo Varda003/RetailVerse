@@ -8,15 +8,15 @@ RetailVerse is an AI-powered simulation and decision-support platform that helps
 ## Here are some visuals to give you an idea of the project:
 
 ![UI Design](assets/image1.png) <!-- Replace with the actual path -->
-*Figure 2: User Interface Design.*
+
 <br><br>
 <br><br>
 ![Project Overview](assets/image2.png) <!-- Replace with the actual path -->
-*Figure 1: Overview of the project.*
+
 <br><br>
 <br><br>
 ![Features Demo](assets/image3.png) <!-- Replace with the actual path -->
-*Figure 3: Features in action.*
+
 <br><br>
 <br><br>
 
@@ -60,7 +60,7 @@ An AI recommendation engine (Flask backend) suggests sustainable and trust-build
 
 ## 📂 Folder Structure
 
-RetailVerse
+
 ├── backend  
 │ ├── routes
 │ ├── models
